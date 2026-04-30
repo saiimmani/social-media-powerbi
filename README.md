@@ -65,10 +65,13 @@ In Power BI Desktop:
 - Trends of reach/impressions vs. engagement
 - Top posts by total engagement and engagement rate
 
-## Notes / Attribution
+## 📊 Dataset
 
-- The dataset is owned by its original author on Kaggle. Please attribute the dataset source if you publish or share the report.
+The dataset used in this project is sourced from Kaggle:
 
-## License
+- **Title:** Social Media Engagement Report  
+- **Author:** Alireda Elblgihy  
+- **Platform:** Kaggle  
+- **Link:** https://www.kaggle.com/datasets/aliredaelblgihy/social-media-engagement-report  
 
-This project is shared for learning and portfolio purposes. See the repository license (if provided).
+> ⚠️ This dataset is owned by its original author. Please refer to the dataset page for licensing and usage terms.
