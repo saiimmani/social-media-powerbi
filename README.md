@@ -1,29 +1,32 @@
 # Social Media Engagement Dashboard (Power BI)
 
-A Power BI dashboard project that analyzes social media engagement metrics (e.g., likes, comments, shares, reach/impressions) to help understand performance across platforms, content types, and time.
+A Power BI dashboard project that analyzes social media engagement metrics (likes, comments, shares, reach/impressions) to understand performance across platforms, content types, and time.
 
-> Dataset (Kaggle): https://www.kaggle.com/datasets/aliredaelblgihy/social-media-engagement-report
+**Dataset (Kaggle):** https://www.kaggle.com/datasets/aliredaelblgihy/social-media-engagement-report
 
 ## Overview
 
-This repository contains a Power BI report built on the **Social Media Engagement Report** dataset. The dashboard is designed to:
+This repository contains a Power BI report built on the **Social Media Engagement Report** dataset. The dashboard helps you:
 
 - Track engagement trends over time
 - Compare performance across platforms and post/content categories
 - Identify top-performing posts and key engagement drivers
-n
+
 ## Dashboard Preview
 
-> Add the dashboard screenshots in the `images/` folder and update links below.
+Below are screenshots from the report (stored in [`dashboard images/`](dashboard%20images)):
 
-- `images/dashboard-1.png`
-- `images/dashboard-2.png`
+![Dashboard Screenshot 1](dashboard%20images/Screenshot%202026-04-30%20191056.png)
+![Dashboard Screenshot 2](dashboard%20images/Screenshot%202026-04-30%20191123.png)
+![Dashboard Screenshot 3](dashboard%20images/Screenshot%202026-04-30%20191134.png)
+![Dashboard Screenshot 4](dashboard%20images/Screenshot%202026-04-30%20191142.png)
+![Dashboard Screenshot 5](dashboard%20images/Screenshot%202026-04-30%20191151.png)
 
-## What’s Inside
+## Repository Contents
 
-- `*.pbix` – The Power BI report file(s)
-- Data preparation steps (Power Query) inside the report
-- Measures and calculated columns using DAX
+- **`Social Media Engagement Report.pbix`** – Power BI report
+- **`dashboard images/`** – Screenshot previews of the dashboard pages
+- **`README.md`** – Project documentation
 
 ## Getting Started
 
@@ -33,13 +36,13 @@ Download the dataset from Kaggle:
 
 https://www.kaggle.com/datasets/aliredaelblgihy/social-media-engagement-report
 
-### 2) Open the report
+### 2) Open the Power BI report
 
 1. Install **Power BI Desktop**
-2. Open the `.pbix` file from this repository
-3. If prompted, update the data source path to the downloaded CSV/Excel file
+2. Open `Social Media Engagement Report.pbix`
+3. If prompted, set the dataset file path (CSV/Excel) to the location you downloaded from Kaggle
 
-### 3) Refresh data
+### 3) Refresh
 
 In Power BI Desktop:
 
@@ -49,13 +52,12 @@ In Power BI Desktop:
 
 - Engagement rate by platform and content type
 - Best day/time to post
-- Trend of reach vs. engagement
+- Trends of reach/impressions vs. engagement
 - Top posts by total engagement and engagement rate
 
-## Notes
+## Notes / Attribution
 
-- The dataset belongs to its original author on Kaggle.
-- If you publish this report, please attribute the dataset source.
+- The dataset is owned by its original author on Kaggle. Please attribute the dataset source if you publish or share the report.
 
 ## License
 
