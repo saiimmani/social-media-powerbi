@@ -14,13 +14,23 @@ This repository contains a Power BI report built on the **Social Media Engagemen
 
 ## Dashboard Preview
 
-Below are screenshots from the report (stored in [`dashboard images/`](dashboard%20images)):
+Below are screenshots from the report (stored in [`dashboard images/`](dashboard%20images)).
 
-![Dashboard Screenshot 1](dashboard%20images/Screenshot%202026-04-30%20191056.png)
-![Dashboard Screenshot 2](dashboard%20images/Screenshot%202026-04-30%20191123.png)
-![Dashboard Screenshot 3](dashboard%20images/Screenshot%202026-04-30%20191134.png)
-![Dashboard Screenshot 4](dashboard%20images/Screenshot%202026-04-30%20191142.png)
-![Dashboard Screenshot 5](dashboard%20images/Screenshot%202026-04-30%20191151.png)
+<p align="center">
+  <img src="dashboard%20images/Screenshot%202026-04-30%20191056.png" alt="Dashboard Screenshot 1" width="900" />
+</p>
+<p align="center">
+  <img src="dashboard%20images/Screenshot%202026-04-30%20191123.png" alt="Dashboard Screenshot 2" width="900" />
+</p>
+<p align="center">
+  <img src="dashboard%20images/Screenshot%202026-04-30%20191134.png" alt="Dashboard Screenshot 3" width="900" />
+</p>
+<p align="center">
+  <img src="dashboard%20images/Screenshot%202026-04-30%20191142.png" alt="Dashboard Screenshot 4" width="900" />
+</p>
+<p align="center">
+  <img src="dashboard%20images/Screenshot%202026-04-30%20191151.png" alt="Dashboard Screenshot 5" width="900" />
+</p>
 
 ## Repository Contents
 
